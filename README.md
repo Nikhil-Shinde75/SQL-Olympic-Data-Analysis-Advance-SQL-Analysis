@@ -3,6 +3,7 @@ In this SQL project, I performed an in-depth analysis of the Olympic dataset to 
 The main objective of this project was to explore the Olympic dataset using SQL queries.
 #
 I crafted complex SQL queries to answer a diverse set of analytical questions, such as:
+
   1] Which nation has participated in all of the olympic games?
   
   2] Find the total no of sports played in each olympic games.
